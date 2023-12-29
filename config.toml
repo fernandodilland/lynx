@@ -1,40 +1,41 @@
-# baseURL = "https://your_domain.com/"
-languageCode = "en"
-defaultContentLanguage = "en"
+# baseURL = "https://social.fernandodilland.com/"
+languageCode = "es"
+defaultContentLanguage = "es"
 
-title = "Lynx"
+title = "Redes sociales de Fernando Dilland"
 # copyright = "Copy, _right?_ :thinking_face:"
 
 enableEmoji = true
 disableKinds = ["taxonomy", "term"]
 
 [params.author]
-  # name = "Your name here"
-  # headline = "An awesome person"
-  # image = "img/author.jpg"  # path relative to static directory
+  name = "Fernando Dilland"
+  headline = "Sígueme en mis redes sociales"
+  image = "img/fd.png"  # path relative to static directory
 
   links = [
-    # { email = "mailto:hello@your_domain.com" },
-    # { link = "https://link-to-some-website.com/" },
+    { instagram = "https://www.instagram.com/fernandodilland/" },
+    #{ email = "mailto:contacto@fernandodilland.com" },
     # { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
     # { apple = "https://www.apple.com" },
     # { codepen = "https://codepen.io/username" },
     # { dev = "https://dev.to/username" },
     # { discord = "https://discord.gg/invitecode" },
     # { dribbble = "https://dribbble.com/username" },
-    # { facebook = "https://facebook.com/username" },
+    { facebook = "https://www.facebook.com/profile.php?id=100076957804767" },
+    { youtube = "https://www.youtube.com/@FernandoDilland" },
+    { x = "https://x.com/fernandodilland" },
     # { flickr = "https://www.flickr.com/photos/username/" },
     # { foursquare = "https://foursquare.com/username" },
-    # { github = "https://github.com/username" },
+    { github = "https://github.com/fernandodilland" },
     # { gitlab = "https://gitlab.com/username" },
     # { google = "https://www.google.com/" },
-    # { instagram = "https://instagram.com/username" },
-    # { keybase = "https://keybase.io/username" },
+    { keybase = "https://keybase.io/fernandodilland" },
     # { kickstarter = "https://www.kickstarter.com/profile/username" },
     # { lastfm = "https://last.fm/user/username" },
-    # { linkedin = "https://linkedin.com/in/username" },
+    # { linkedin = "https://www.linkedin.com/in/fernandodilland/" },
     # { mastodon = "https://mastodon.instance/@username" },
-    # { medium = "https://medium.com/username" },
+    { medium = "https://medium.com/@fernandodilland" },
     # { microsoft = "https://www.microsoft.com/" },
     # { patreon = "https://www.patreon.com/username" },
     # { pinterest = "https://pinterest.com/username" },
@@ -51,10 +52,10 @@ disableKinds = ["taxonomy", "term"]
     # { tiktok = "https://tiktok.com/@username" },
     # { tumblr = "https://username.tumblr.com" },
     # { twitch = "https://twitch.tv/username" },
-    # { twitter = "https://twitter.com/username" },
+    # { twitter = "https://twitter.com/fernandodilland" },
     # { whatsapp = "https://wa.me/phone-number" },
-    # { x = "https://x.com/username" },
-    # { youtube = "https://youtube.com/username" },
+
+    { link = "https://fernandodilland.com/" },
   ]
 
 [module]

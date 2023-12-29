@@ -5,7 +5,7 @@ link:
   dev: DEV
   discord: Discord
   dribbble: Dribbble
-  email: Email
+  email: Contacto directo
   facebook: Facebook
   flickr: Flickr
   foursquare: Foursquare
@@ -16,7 +16,7 @@ link:
   keybase: Keybase
   kickstarter: Kickstarter
   lastfm: Last.fm
-  link: Website
+  link: Página web
   linkedin: LinkedIn
   mastodon: Mastodon
   medium: Medium
@@ -44,7 +44,7 @@ link:
   stack-overflow: Stack Overflow
 
 nav:
-  home: Home
+  home: Inicio
 
 footer:
-  powered_by: "Powered by {{ .Hugo }} &amp; {{ .Lynx }}"
+  powered_by: "Página web creada por {{ .fernandodilland}}."
